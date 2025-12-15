@@ -114,6 +114,7 @@ pitchMul = pitchSlider.value();
 
   image(pianoImg, 0, 300, width, 200);
 }
+// refine layout and interaction
 
 
 function mousePressed() {
