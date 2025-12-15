@@ -10,7 +10,7 @@ let playBtn, pauseBtn;
 let speedSlider, pitchSlider;
 let pitchMul = 1;  
 
-
+// analyze sound amplitude for visualization
 function preload() {
   pianoImg = loadImage("1.jpg");
   song = loadSound("1.mp3"); 
