@@ -71,6 +71,7 @@ pitchSlider.position(380, 92);
 pitchSlider.style("width", "160px");
 
 }
+// map sound level to visual elements
 
 function draw() {
   background(245);
